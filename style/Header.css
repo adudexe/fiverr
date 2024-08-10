@@ -1,0 +1,133 @@
+body{
+    font-family: Macan , sans-serif;
+}
+.nav-bar{
+    background-color: white;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 80px;
+    padding-left: 250px;
+    padding-right: 220px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    border-bottom: 1px solid rgb(228, 228, 228);
+    z-index: 1;
+}
+.left-elements{
+    width: 90px;
+    padding-left: 2px;
+    
+}
+.Header-logo{
+    mix-blend-mode: multiply;
+    height: 100%;
+    width: 100%;
+}
+.Fiverr-Pro{
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    padding: 9px 11px;
+    font-size: 16px;
+}
+.Fiverr-Pro:hover{
+    background-color: #f4f4f4;
+    cursor: pointer;
+}
+.Fiverr-Pro-Logo{
+    height: 10px;
+    width: 10px;
+    padding-left: 3px;
+}
+.Explore{
+    background-color: white;
+    border: none;
+    color: #626686;
+    border-radius: 8px;
+    font-weight: bold;
+    padding: 9px 11px;
+    margin-left: 10px;
+    margin-right: 18px;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+.Explore:hover{
+    background-color: #f4f4f4;
+    cursor: pointer;
+}
+.Explore-Logo{
+    height: 10px;
+    width: 10px;
+    padding-left: 3px;
+}
+.English-Logo{
+    height: 10px;
+    width: 10px;
+}
+.English{
+    background-color: white;
+    border: none;
+    color: #626686;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 10px ;
+}
+.English:hover{
+    color: #1DBF73;
+    cursor: pointer;
+}
+.Become-Seller{
+    background-color: white;
+    border: none;
+    color: #626686;
+    font-weight: bold;
+    margin-right: 8px;
+    margin-left: 10px;
+    padding: 0px;
+    font-size: 16px;
+}
+.Become-Seller:hover{
+    color: #1DBF73;
+    cursor: pointer;
+}
+.Sign-In{
+    background-color: white;
+    border: none;
+    color: #626686;
+    font-weight: bold;
+    padding: 0;
+    margin-left: 9px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+.Sign-In:hover{
+    color: #1DBF73;
+    cursor: pointer;
+}
+.Join{
+    padding: 9px 15.7px;
+    background-color: white;
+    column-rule: #1DBF73;
+    border: 1px solid #1DBF73;
+    color: #1DBF73;
+    border-radius: 3px;
+    margin-left: 5px;
+    font-size: 11px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 30px;
+    font-size: 14px;
+}
+.Join:hover{
+    background-color: #1DBF73;
+    color: white;
+    cursor: pointer;
+}
+
